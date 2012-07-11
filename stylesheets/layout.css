@@ -55,9 +55,13 @@
 	#header #strapline p {
 		font-size: 28px;
 		line-height: 34px;
-		margin-top: 40px;
+		margin-top: 0px;
 		margin-bottom: 0px;
 		font-family: "Segoe SemiBold", Segoe, "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+	}
+
+	#strapline h2 {
+		margin-top:20px;
 	}
 
 /* Phone screenshot Slider */
